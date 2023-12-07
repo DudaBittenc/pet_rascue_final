@@ -1,0 +1,1 @@
+C:\xampp\htdocs\QI_Desenvolvimento_de_Sistemas_Web_II_Projetos\Pet_Rescue\src\Model\Repository\UsersRepository.php - 22 - SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[],NULL,NULL,NULL,NULL,NULL,NULL)' at line 1
