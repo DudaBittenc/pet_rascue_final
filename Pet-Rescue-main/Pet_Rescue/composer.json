@@ -1,0 +1,10 @@
+{
+    "name": "caiop/pet_rescue",
+    "autoload": {
+        "psr-4": {
+            "QI\\PetRescue\\": "src/"
+        },
+        "files": ["config.php"]
+    },
+    "require": {}
+}
