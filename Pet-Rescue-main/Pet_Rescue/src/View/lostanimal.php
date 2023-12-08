@@ -29,20 +29,121 @@
         </div>
     </header>
     <section class="catalog" id="catalog">
-        <div class="content">
-            <div class="title-wrapper-catalog">
-                <p>Find what you want</p>
-                <h3>Catalog</h3>
-            </div>
-            <div class="filter-card">
-                <input 
-                type="text" 
-                class="search-input" 
-                placeholder="Choose your favorite model"
-                />
-                <button class="search-button">Search</button>
-            </div>
+      <div class="content">
+        <div class="title-wrapper-catalog">
+          <p>Find what you want</p>
+          <h3>Catalog</h3>
         </div>
+        <div class="filter-card">
+          <input
+            type="text"
+            class="search-input"
+            placeholder="Choose your favorite model"
+          />
+          <button class="search-button">Search</button>
+        </div>
+        <div class="card-wrapper">
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+          <div class="card-item">
+            <img src="../../assets/img/cat.png" alt="Car" />
+            <div class="card-content">
+              <h3>Audi Supra TT</h3>
+              <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Repellendus.
+              </p>
+              <button type="button">I want this!</button>
+            </div>
+          </div>
+        </div>
+      </div>
     </section>
 </body>
 </html>
