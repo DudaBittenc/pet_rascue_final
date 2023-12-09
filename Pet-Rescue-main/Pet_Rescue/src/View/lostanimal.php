@@ -10,18 +10,18 @@
     <header>
         <div class="content">
             <nav>
-                <p class="brand">dev<srtong>superior<strong></p>
+                <p class="brand">Pet<srtong>Rescue<strong></p>
                 <ul>
                     <li><a href="#catalog">Catalogo</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#feature">Features</a></li>
-                    <button>Login</button>
+                    <li><a href="#about">sobre</a></li>
+                    <li><a href="#feature">Característica</a></li>
+                    <button type="submit">Cadastrar</button>
                 </ul>
             </nav>
             <div class="header-block">
                 <div class="text">
-                    <h2>Título</h2>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fuga, nam.</p>
+                    <h2>Animais perdidos</h2>
+                    <p>Cadastre seu animalzinho perdido, e permita nossa comunidade a te ajudar a encontrá-lo ou achar seu respectivo dono.</p>
                 </div>
                 <img src="../../assets/img/vira-lata-caramelo-cao.jpg" alt="">
             </div>
@@ -30,115 +30,114 @@
     <section class="catalog" id="catalog">
       <div class="content">
         <div class="title-wrapper-catalog">
-          <p>Find what you want</p>
-          <h3>Catalog</h3>
+          <p>Veja se seu pet está aqui</p>
+          <h3>Catálogo</h3>
         </div>
         <div class="filter-card">
           <input
             type="text"
             class="search-input"
-            placeholder="Choose your favorite model"
+            placeholder="Procure as características de seu animal"
           />
-          <button class="search-button">Search</button>
+          <button class="search-button">Pesquisar</button>
         </div>
         <div class="card-wrapper">
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+              Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
           <div class="card-item">
             <img src="../../assets/img/cat.png" alt="Cat" />
             <div class="card-content">
-              <h3>Audi Supra TT</h3>
+              <h3>Gato listrado</h3>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Repellendus.
+                Filhote de gato, com olhos azuis e pelo acinzentado, encontrado no bairro fulano da cidade fulano.
+
               </p>
-              <button type="button">I want this!</button>
+              <button type="button">Encontrei!</button>
             </div>
           </div>
         </div>
@@ -148,81 +147,69 @@
     <section class="about" id="about">
       <div class="content">
         <div class="title-wrapper-about">
-          <p>Know about us</p>
-          <h3>About</h3>
+          <p>Saiba mais sobre</p>
+          <h3>Sobre</h3>
         </div>
         <div class="about-content">
           <div class="left">
             <img src="../../assets/img/Gato-PNG.webp" alt="About" />
           </div>
           <div class="right">
-            <h3>Join technology and mobility</h3>
+            <h3>Bem vindo á nossa comunidade!</h3>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Repudiandae ut inventore magni repellendus ab ad itaque facere. A
-              tenetur quam, nobis tempore illum laborum ipsa fuga, itaque
-              possimus repellat ad perspiciatis, velit reiciendis eos facilis
-              sapiente blanditiis quas officia hic beatae quibusdam! Quod
-              eligendi porro possimus voluptatum ad ipsum sapiente soluta,
-              maiores nobis tenetur adipisci officiis nisi illum quae natus
-              nostrum tempora accusantium blanditiis? Rem nesciunt illum
-              dolorum, perferendis quos consequatur suscipit cumque fugiat alias
-              sint repellat qui adipisci error est distinctio doloribus labore
-              sunt modi eos odio quibusdam dicta. Dignissimos voluptate illum
-              possimus quo. Ducimus repellat doloribus quisquam quidem?
+            Aqui é um cantinho na internet dedicado a animais perdidos. Aqui, fotos e histórias de pets desaparecidos são compartilhadas, enquanto pessoas se unem para ajudar a encontrar esses companheiros. Comentários solidários e mensagens de apoio se multiplicam, formando uma rede de esperança. É um refúgio virtual onde o amor por esses animais ultrapassa fronteiras, buscando reunir esses amigos de quatro patas com suas famílias.
             </p>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="features" id="features">
+    <section class="feature" id="feature">
       <div class="content">
         <div class="title-wrapper-features">
-          <p>what you can do</p>
-          <h3>Features</h3>
+          <h3>Características comuns</h3>
         </div>
         <div class="feature-card-block">
           <div class="feature-card-item">
             <img src="../../assets/img/Dog-png.webp" alt="Feature">
             <div class="feature-text-content">
               <h3>Title</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pelo caramelo e porte médio</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="../../assets/img/Dog-png.webp" alt="Feature">
             <div class="feature-text-content">
               <h3>Title</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pelo caramelo e porte médio</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="../../assets/img/Dog-png.webp" alt="Feature">
             <div class="feature-text-content">
               <h3>Title</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pelo caramelo e porte médio</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="../../assets/img/Dog-png.webp" alt="Feature">
             <div class="feature-text-content">
               <h3>Title</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pelo caramelo e porte médio</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="../../assets/img/Dog-png.webp" alt="Feature">
             <div class="feature-text-content">
               <h3>Title</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pelo caramelo e porte médio</p>
             </div>
           </div>
           <div class="feature-card-item">
             <img src="../../assets/img/Dog-png.webp" alt="Feature">
             <div class="feature-text-content">
               <h3>Title</h3>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Pelo caramelo e porte médio</p>
             </div>
           </div>
         </div>
@@ -233,31 +220,25 @@
       <div class="main">
         <div class="content footer-links">
           <div class="footer-company">
-            <h4>company</h4>
-            <h6>About</h6>
-            <h6>Contact</h6>
-          </div>
-          <div class="footer-rental">
-            <h4>rental</h4>
-            <h6>Self-Drive</h6>
-            <h6>Chauffer-Driven</h6>
-            <h6>Help</h6>
+            <h4>compania</h4>
+            <h6>Sobre</h6>
+            <h6>Contato</h6>
           </div>
           <div class="footer-social">
-            <h4>Stay connected</h4>
+            <h4>Continue conectado</h4>
             <div class="social-icons">
               <img src="../../assets/img/instagram.png" alt="Instagram">
               <img src="../../assets/img/facebook.png" alt="Facebook">
             </div>
           </div>
           <div class="footer-contact">
-              <h4>Contact US</h4>
+              <h4>Fale conosco</h4>
               <h6>+55 51 98886789</h6>
               <h6>contato@dev.com.br</h6>
           </div>
         </div>
       </div>
-      <div class="last">Dev 2021 - Use like you want</div>
+      <div class="last">PetRescue 2021 - Animal petff</div>
     </footer>
 </body>
 </html>
